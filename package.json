@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-css-75dca124611b-de05989a26b0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwind -i ./src/input.css -o ./public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
